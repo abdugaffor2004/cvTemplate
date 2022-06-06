@@ -65,3 +65,10 @@ const Force = (force  , weight, accelaration) => {
     
      Force()
 ```
+
+
+## Experience :chart_with_upwards_trend: :
+
+[ticTacToe game](https://luffi.netlify.app/)
+
+[Movieapp](https://rolling-scopes-school.github.io/abdugaffor2004-JSFEPRESCHOOL/movie-app/)
