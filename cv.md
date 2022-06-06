@@ -72,3 +72,16 @@ const Force = (force  , weight, accelaration) => {
 [ticTacToe game](https://luffi.netlify.app/)
 
 [Movieapp](https://rolling-scopes-school.github.io/abdugaffor2004-JSFEPRESCHOOL/movie-app/)
+
+
+## Education :mortar_board: :
+* __School:__ 11th form
+* __Courses:__
+    + [ Rsschool(stage0) ](https://rs.school/js/)
+    + [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+    + [GeekBrains](https://gb.ru/)
+    + [Dev Ed](https://www.youtube.com/c/DevEd)
+    + [Javascript.ru](https://www.youtube.com/channel/UCKPbiit_j8ycmkutM0wVzdA)
+
+## English Level :books: :
+__B2__ (I also have a little practice of speaking with native speakers)
