@@ -1,0 +1,22 @@
+body{
+    font-family:'Khula', sans-serif;
+    scroll-behavior: smooth;
+}
+
+.header {
+max-width: 556px;
+
+display: flex;
+justify-content:space-between;
+
+border-bottom: 1px solid black ;
+margin: 0px auto;
+padding: 15px 0 25px 0  ;
+font-weight: bold;
+}
+
+
+.header a {
+    text-decoration: none;
+    color: black;
+}
