@@ -50,3 +50,16 @@ font-weight: bold;
     background-color: #e7e7e7;
     margin-top: 90px;
 }
+
+.section_4{
+    background-color: #e7e7e7;
+}
+
+
+.grey{
+    background-color: #8b8888;
+    border-radius: 20px ;
+    color: white;
+    font-size: 17px;
+    
+}
