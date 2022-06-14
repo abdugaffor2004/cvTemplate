@@ -42,3 +42,11 @@ font-weight: bold;
 .mainImage img{
     max-width: 900px;
 }
+
+
+.section_2{
+    font-size: 14px;
+    font-weight: 500;
+    background-color: #e7e7e7;
+    margin-top: 90px;
+}
