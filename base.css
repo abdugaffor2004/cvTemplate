@@ -84,3 +84,16 @@ font-weight: bold;
     background-color: #e7e7e7;
     margin-top: 100px;
 }
+
+footer .logo{
+
+    width: 100px;
+    height: 100px;
+
+}
+
+
+footer a{
+    text-decoration: none;
+}
+
